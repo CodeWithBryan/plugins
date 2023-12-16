@@ -1,0 +1,13 @@
+[
+    {
+      "internalName": "menuentryswapperextended-plugin",
+      "hash": "63E82AC552ACEF0174147CD0EF839B2CE7823B9A76841651B311400F4BD0C1098F6CF1FE74C029E7995EC16877B2B1CC33D3958F8634281A18CE416337948404",
+      "size": 58079,
+      "plugins": [
+        "net.runelite.client.plugins.menuentryswapperextended.MenuEntrySwapperExtendedPlugin"
+      ],
+      "displayName": "MenuEntry Swapper Extended",
+      "description": "",
+      "provider": "plugins"
+    }
+  ]
